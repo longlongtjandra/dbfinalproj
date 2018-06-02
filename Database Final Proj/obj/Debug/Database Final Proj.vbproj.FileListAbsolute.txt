@@ -1,0 +1,20 @@
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.vbprojResolveAssemblyReference.cache
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.Form1.resources
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.Resources.resources
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.vbproj.GenerateResource.cache
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.vbproj.CoreCompileInputs.cache
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\Database Final Proj.exe.config
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\Database Final Proj.exe
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\Database Final Proj.pdb
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\Database Final Proj.xml
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\MySql.Data.dll
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\Google.Protobuf.dll
+C:\DBMSfin\dbfinalproj\Database Final Proj\bin\Debug\MySql.Data.xml
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.vbproj.CopyComplete
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.exe
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.xml
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database Final Proj.pdb
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.Laptop.resources
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.ADDstock.resources
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.spareparts.resources
+C:\DBMSfin\dbfinalproj\Database Final Proj\obj\Debug\Database_Final_Proj.spADDstock.resources
